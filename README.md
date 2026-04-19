@@ -1,4 +1,4 @@
-# colorectal-lesion-classifier : Machine Learning Approach to Colorectal Lesion Characterization
+# Colorectal-Lesion-Classifier : Machine Learning Approach to Colorectal Lesion Characterization
 # Project Overview
 Machine learning-based system for colorectal lesion classification to support early cancer detection.
 This project presents a machine learning-based approach for the classification of colorectal lesions using medical data. The goal is to assist in early detection and accurate characterization of lesions, which is crucial for the diagnosis and prevention of colorectal cancer.
